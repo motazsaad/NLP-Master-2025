@@ -63,7 +63,9 @@ Speech and Language Processing (3rd ed. draft) by Dan Jurafsky and James H. Mart
 
 ## Assessment Criteria
 
-* Final Pass/Fail Exam
+* Final Exam 60% 
+* Paper Presentation 40% (students must select a paper from a list that is prepared by the course professor) 
+
 
 
 
