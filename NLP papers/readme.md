@@ -63,3 +63,18 @@
 - Transfer Learning in Agriculture: A Review  
 - A Survey on Diffusion Language Models  
 
+---
+
+# Evaluation Criteria for NLP Paper Presentations (30 min video)
+1. Content Understanding (50%)
+	- Correct explanation of objectives, methods, and results (20%)
+	- Depth of technical discussion (15%)
+	- Critical insights on strengths/limitations (15%)
+
+2. Presentation Quality (30%)
+	- Clear structure (intro, methods, results, conclusion) (15%)
+	- Clarity of explanation and timing (15%)
+
+3. Use of Visuals & Examples (20%)
+	- Quality and clarity of slides/diagrams (10%)
+	- Helpful examples to illustrate points (10%)
